@@ -1,0 +1,19 @@
+Generated Text Output
+
+Seed Input 1: to be or not to be
+Generated Text:
+to be or not to be the king
+and the time of the world
+that hath made thee speak
+and so it shall be done
+
+--------------------------------------------------
+
+Seed Input 2: love is
+Generated Text:
+love is a thing of beauty
+that doth make the heart
+to speak in gentle words
+and fair remembrance
+
+--------------------------------------------------
